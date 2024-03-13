@@ -13,8 +13,8 @@ pi = 3.14
 pole_kl = prom**2*pi
 print("pole kola wynosi: " + str(pole_kl))
 
-
 dlu_1 = 4
 dlu_2 = 6
 pole_troj = dlu_1*dlu_2*1/2
 print("pole trojkata wynosi: " + str(pole_troj))
+
